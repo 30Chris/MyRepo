@@ -96,6 +96,8 @@
         <h1>Donde la moda se encuentra con la dulzura, bienvenidos a la tienda de Olga's</h1>
     </header>
 
+     <!-- Carousel -->
+
     <div class="container">
         <br />
         <div id="carrusel" class="carousel slide" data-ride="carousel">
